@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Next.js**
 
-- 💬 Ask me about **react,gsap,tailwind**
+- 💬 Ask me about **Js,React,Node,Express,gsap,tailwind**
 
 - 📫 How to reach me **mahetabpatel33@gmail.com**
 
