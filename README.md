@@ -34,7 +34,7 @@
   <a href="https://nodejs.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/></a>
   <a href="https://expressjs.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express.js" width="40" height="40"/></a>
   <a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/></a>
-  <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/></a>
+
 </p>
 
 #### Tools & Others
@@ -42,26 +42,13 @@
   <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/></a>
   <a href="https://firebase.google.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/></a>
   <a href="https://postman.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/></a>
-  <a href="https://www.figma.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/></a>
+  
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/></a>
   <a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/></a>
 </p>
 
 ---
 
-### 🌟 Featured Project: Expense Tracker App
-
-A full-stack MERN application to manage personal finances.
-
-- **Live Demo**: [Frontend](https://xpense-tracks-with-me.vercel.app/) | [Backend](https://xpense-tracker-backend.onrender.com/)
-- **Repo**: [GitHub](https://github.com/your-username/xpense-tracker)
-- **Features**:
-  - JWT-based authentication
-  - Dashboard with income/expense charts
-  - Add, delete, and export income/expenses to Excel
-  - Responsive design
-
----
 
 ### 📊 GitHub Stats
 
@@ -76,8 +63,7 @@ A full-stack MERN application to manage personal finances.
 
 <div align="center">
   <a href="mailto:mahetabpatel33@gmail.com"><img src="https://img.shields.io/badge/Email-mahetabpatel33@gmail.com-red" alt="Email"></a>
-  <a href="https://linkedin.com/in/your-linkedin" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Mahetab%20Patel-blue" alt="LinkedIn"></a>
-  <a href="https://twitter.com/your-twitter" target="_blank"><img src="https://img.shields.io/badge/Twitter-@yourtwitter-1DA1F2" alt="Twitter"></a>
+  <a href="https://linkedin.com/in/your-linkedin" target="_blank"><img src="https://www.linkedin.com/in/mahetab-patel-0b0a54292/" alt="LinkedIn"></a>
 </div>
 
 <p align="center">Let’s build something amazing together!</p>
