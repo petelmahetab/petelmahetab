@@ -62,7 +62,7 @@
 ### 📫 Connect with Me
 
 <div align="center">
-  <a href="mailto:mahetabpatel33@gmail.com"><img src="https://img.shields.io/badge/Email-mahetabpatel33@gmail.com-red" alt="Email"></a>
+  <a href="mailto:mahetabpatel33@gmail.com"><img src="https://img.shields.io/badge/Email-mahetabpatel33@gmail.com-red" alt="Email">📩</a>
   <a href="https://linkedin.com/in/your-linkedin" target="_blank"><img src="https://www.linkedin.com/in/mahetab-patel-0b0a54292/" alt="LinkedIn"></a>
 </div>
 
