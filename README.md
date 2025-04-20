@@ -34,7 +34,6 @@
   <a href="https://nodejs.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/></a>
   <a href="https://expressjs.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express.js" width="40" height="40"/></a>
   <a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/></a>
-
 </p>
 
 #### Tools & Others
@@ -63,7 +62,7 @@
 
 <div align="center">
   <a href="mailto:mahetabpatel33@gmail.com"><img src="https://img.shields.io/badge/Email-mahetabpatel33@gmail.com-red" alt="Email">📩</a>
-  <a href="https://linkedin.com/in/your-linkedin" target="_blank"><img src="https://www.linkedin.com/in/mahetab-patel-0b0a54292/" alt="LinkedIn"></a>
+  <a href="https://www.linkedin.com/in/mahetab-patel-0b0a54292/" target="_blank"><img src="https://www.linkedin.com/in/mahetab-patel-0b0a54292/" alt="LinkedIn"></a>
 </div>
 
 <p align="center">Let’s build something amazing together!</p>
