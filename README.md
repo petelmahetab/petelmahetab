@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>🤍 Hi, I'm Mahetab Patel ❤</h1>
+  <h1>🤍 Hi, I'm Mahetab Patel 🤍</h1>
   <h3>A Passionate Full Stack (MERN) Developer from India</h3>
   <p>Building scalable web applications with MongoDB, Express.js, React.js, and Node.js</p>
 </div>
