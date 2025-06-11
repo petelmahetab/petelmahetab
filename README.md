@@ -3,7 +3,7 @@
   <h3>A Passionate Full Stack (MERN) Developer</h3>
   <p>Building scalable web applications with MongoDB, Express.js, React.js, and Node.js</p>
   <p>Focusing on Building scalable and production ready application using Next.js</p>
-  <p>Now I'm Also Learning Docker to scale app</p>
+  <p>Now I'm Also Learning Docker and Kubernetes to build and scaling the app in production level</p>
 </div>
 
 ---
