@@ -4,6 +4,7 @@
   <p>Building scalable web applications with MongoDB, Express.js, React.js, and Node.js</p>
   <p>Focusing on Building scalable and production ready application using Next.js</p>
   <p>Now I'm Also Learning Docker and Kubernetes to build and scaling the app in production level</p>
+  <p>DevOps also help me stay updated latest technology for building  large scale application using CI/CD Pipelines.</p>
   
 </div>
 
