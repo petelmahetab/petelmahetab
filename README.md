@@ -6,7 +6,7 @@
   <p>Now I'm also learning Docker and Kubernetes to scale apps at production level</p>
   <p>DevOps helps me stay updated with latest tech for building large-scale apps using CI/CD pipelines</p>
   <br />
-  <img src="https://komarev.com/ghpvc/?username=mahetabpatel&label=Profile%20views&color=0e75b6&style=flat" alt="mahetabpatel" />
+
 </div>
 
 ---
@@ -57,9 +57,6 @@
 
 
 ---
-
-## 🏆 GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=petelmahetab&theme=onedark&column=6)](https://github.com/ryo-ma/github-profile-trophy)
 
 ### 📈 GitHub Stats
 ![Sarfraz's GitHub Stats](https://github-readme-stats.vercel.app/api?username=petelmahetab&show_icons=true&theme=radical&count_private=true)
