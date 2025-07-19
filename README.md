@@ -55,20 +55,11 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mahetabpatel&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=mahetabpatel&theme=radical&hide_border=true" alt="GitHub Streak" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahetabpatel&layout=compact&theme=radical" alt="Top Languages" />
-</p>
 
 ---
 
 ## 🏆 GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=petelmahetab&theme=onedark&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=petelmahetab&theme=onedark&column=6)](https://github.com/ryo-ma/github-profile-trophy)
 
 ### 📈 GitHub Stats
 ![Sarfraz's GitHub Stats](https://github-readme-stats.vercel.app/api?username=petelmahetab&show_icons=true&theme=radical&count_private=true)
