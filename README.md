@@ -68,10 +68,11 @@
 ---
 
 ## 🏆 GitHub Trophies
+[![trophy](https://github-profile-trophy.vercel.app/?username=petelmahetab&theme=onedark&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mahetabpatel&theme=darkhub&no-frame=true&no-bg=true" />
-</p>
+### 📈 GitHub Stats
+![Sarfraz's GitHub Stats](https://github-readme-stats.vercel.app/api?username=petelmahetab&show_icons=true&theme=radical&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=petelmahetab&layout=compact&theme=radical)
 
 ---
 
