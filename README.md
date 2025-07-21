@@ -7,6 +7,7 @@
   <p>DevOps helps me stay updated with latest tech for building large-scale apps using CI/CD pipelines</p>
   <br />
 
+
 </div>
 
 ---
