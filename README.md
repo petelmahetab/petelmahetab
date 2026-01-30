@@ -19,7 +19,7 @@
 
 - 🌱 **Currently Learning**: Next.js, Docker, Kubernetes
 - 💻 **Specializing In**: Full-stack development with MERN stack
-- 💬 **Ask Me About**: JavaScript, React, Node.js, Express, GSAP, Tailwind CSS
+- 💬 **Ask Me About**: JavaScript, React, Node.js, Express, GSAP, Tailwind CSS,TypeScript etc.
 - 📫 **Reach Me**: [mahetabpatel33@gmail.com](mailto:mahetabpatel33@gmail.com)
 - ⚡ **Fun Fact**: I love turning complex problems into elegant, user-friendly solutions!
 
