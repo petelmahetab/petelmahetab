@@ -1,80 +1,126 @@
 <div align="center">
-  <h1>❤️ Hi, I'm Mahetab Patel ❤️</h1>
-  <h3>A Passionate Full Stack (MERN) Developer, Next.js.. </h3>
-  <p>Building scalable web applications with MongoDB, Express.js, React.js, and Node.js</p>
-  <p>Focusing on building scalable and production-ready applications using Next.js</p>
-  <p>Now I'm also learning Docker and Kubernetes to scale apps at production level</p>
-  <p>DevOps helps me stay updated with latest tech for building large-scale apps using CI/CD pipelines</p>
-  <br />
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Mahetab%20Patel&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer%20%7C%20MERN%20%7C%20Next.js%20%7C%20DevOps&descAlignY=55&descSize=16" />
 
+<br/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6AD3F7&center=true&vCenter=true&width=600&lines=Full+Stack+MERN+Developer+%F0%9F%9A%80;Next.js+%7C+TypeScript+%7C+Tailwind+CSS;Docker+%7C+Kubernetes+%7C+CI%2FCD;Turning+Ideas+Into+Scalable+Products+%E2%9C%A8)](https://git.io/typing-svg)
+
+<br/>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/mahetab-patel-0b0a54292/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:mahetabpatel33@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/petelmahetab" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+<img src="https://komarev.com/ghpvc/?username=petelmahetab&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 
 </div>
 
 ---
 
-## 🚀 About Me
+## 👨‍💻 About Me
 
+<img align="right" alt="Coding" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" />
 
-- 🌱 **Currently Learning**: Next.js, Docker, Kubernetes
-- 💻 **Specializing In**: Full-stack development with MERN stack
-- 💬 **Ask Me About**: JavaScript, React, Node.js, Express, GSAP, Tailwind CSS,TypeScript etc.
-- 📫 **Reach Me**: [mahetabpatel33@gmail.com](mailto:mahetabpatel33@gmail.com)
-- ⚡ **Fun Fact**: I love turning complex problems into elegant, user-friendly solutions!
+Hey there! I'm **Mahetab Patel**, a passionate **Full Stack Developer** from India 🇮🇳
+
+- 🔭 &nbsp; Currently building **scalable, production-ready** web apps with **Next.js**
+- 🌱 &nbsp; Diving deep into **Docker**, **Kubernetes**, and **CI/CD pipelines**
+- 🛠️ &nbsp; Specializing in the **MERN stack** with a DevOps mindset
+- 💡 &nbsp; Love turning complex problems into clean, elegant solutions
+- ⚡ &nbsp; Always shipping — one commit at a time!
+- 📫 &nbsp; Reach me at **mahetabpatel33@gmail.com**
+
+<br clear="right"/>
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 👨‍💻 Frontend
-
+### 🎨 Frontend
 <p>
-  <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/></a>
-  <a href="https://redux.js.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" width="40" height="40"/></a>
-  <a href="https://sass-lang.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="Sass" width="40" height="40"/></a>
-  <a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/></a>
-  <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/></a>
-  <a href="https://nextjs.org" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/next-js.svg" alt="Next.js" width="40" height="40"/></a>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,redux,tailwind,html,css,sass&theme=dark" />
 </p>
 
-
-### 🔧 Backend
-
+### ⚙️ Backend
 <p>
-  <a href="https://nodejs.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/></a>
-  
-  <a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/></a>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase&theme=dark" />
 </p>
 
-### 🧰 Tools & Others
-
+### 🚀 DevOps & Tools
 <p>
-  <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/></a>
-  <a href="https://firebase.google.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/></a>
-  <a href="https://postman.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/></a>
-  <a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/></a>
-  <a href="https://kubernetes.io/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" width="40" height="40"/></a>
-  <a href="https://tailwindcss.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/></a>
-
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,git,github,postman,vscode&theme=dark" />
 </p>
 
 ---
 
-
----
-
-### 📈 GitHub Stats
-![Sarfraz's GitHub Stats](https://github-readme-stats.vercel.app/api?username=petelmahetab&show_icons=true&theme=radical&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=petelmahetab&layout=compact&theme=radical)
-
----
-
-## 🌐 Connect with Me
+## 📊 GitHub Analytics
 
 <div align="center">
-  <a href="mailto:mahetabpatel33@gmail.com"><img src="https://img.shields.io/badge/Email-mahetabpatel33@gmail.com-red?style=for-the-badge" /></a>
-  <a href="https://www.linkedin.com/in/mahetab-patel-0b0a54292/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=petelmahetab&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=petelmahetab&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+
 </div>
 
-<p align="center">Let’s build something amazing together! 🚀</p>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=petelmahetab&theme=tokyonight&hide_border=true&background=0D1117" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=petelmahetab&theme=tokyo-night&hide_border=true&bg_color=0D1117" width="100%"/>
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=petelmahetab&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" width="100%" />
+</div>
+
+---
+
+## 💡 Current Focus
+
+```javascript
+const mahetab = {
+  currentlyLearning : ["Docker", "Kubernetes", "CI/CD Pipelines"],
+  workingOn        : "Production-ready Next.js Applications",
+  askMeAbout       : ["React", "Node.js", "TypeScript", "GSAP", "Tailwind CSS"],
+  architecture     : ["Microservices", "REST APIs", "Serverless"],
+  funFact          : "I debug in my sleep 😅"
+};
+```
+
+---
+
+## 🤝 Let's Connect & Build Something Amazing!
+
+<div align="center">
+
+  <a href="https://www.linkedin.com/in/mahetab-patel-0b0a54292/" target="_blank">
+    <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="mailto:mahetabpatel33@gmail.com">
+    <img src="https://img.shields.io/badge/Drop%20a%20Mail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+
+  <br/><br/>
+
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+
+</div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
