@@ -103,7 +103,7 @@ const mahetab = {
 
 ---
 
-## 🤝 Let's Connect & Build Something Amazing!
+## 🤝 Let's Connect & Build Something Amazing!..
 
 <div align="center">
 
