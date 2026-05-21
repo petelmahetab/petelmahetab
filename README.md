@@ -30,7 +30,7 @@
 
 <img align="right" alt="Coding" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" />
 
-Hey there! I'm **Mahetab Patel**, a passionate **Full Stack Developer** from India 🇮🇳
+Hey there! I'm **Mahetab Patel**, a passionate **Full Stack Developer**,**DEVOPS Engineer** from India 🇮🇳
 
 - 🔭 &nbsp; Currently building **scalable, production-ready** web apps with **Next.js**
 - 🌱 &nbsp; Diving deep into **Docker**, **Kubernetes**, and **CI/CD pipelines**
