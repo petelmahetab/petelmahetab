@@ -36,6 +36,7 @@ Hey there! I'm **Mahetab Patel**, a passionate **Full Stack Developer**,**DEVOPS
 - 🌱 &nbsp; Diving deep into **Docker**, **Kubernetes**, and **CI/CD pipelines**
 - 🛠️ &nbsp; Specializing in the **MERN stack** with a DevOps mindset
 - 💡 &nbsp; Love turning complex problems into clean, elegant solutions
+- ⚡ &nbsp; Claude Code certified 
 - ⚡ &nbsp; Always shipping — one commit at a time!
 - 📫 &nbsp; Reach me at **mahetabpatel33@gmail.com**
 
