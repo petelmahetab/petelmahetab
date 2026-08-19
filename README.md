@@ -58,7 +58,7 @@ Hey there! I'm **Mahetab Patel**, a passionate **Full Stack Developer**,**DEVOPS
 
 ### 🚀 DevOps & Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,git,github,postman,vscode&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,git,github,postman,vscode,cursor,Trae&theme=dark" />
 </p>
 
 ---
