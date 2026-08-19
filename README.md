@@ -67,8 +67,6 @@ Hey there! I'm **Mahetab Patel**, a passionate **Full Stack Developer**,**DEVOPS
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=petelmahetab&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=petelmahetab&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
 
 </div>
 
@@ -82,11 +80,6 @@ Hey there! I'm **Mahetab Patel**, a passionate **Full Stack Developer**,**DEVOPS
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=petelmahetab&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" width="100%" />
-</div>
 
 ---
 
